@@ -1,0 +1,15 @@
+Name			Version
+IE			11
+Edge			13
+Firefox			43
+Chrome			48
+Android			46
+Chrome (Android)	47
+
+
+If time:
+Name			Version
+Safari			9
+Safari (IOS)		9.2
+Opera			34
+
