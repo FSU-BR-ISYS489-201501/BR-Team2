@@ -1,0 +1,8 @@
+Must be 1080P or less in resolution (Only use 1080P if image must take up a large area of the web page).
+We want the image file size as small as possible without distortion or image degredation.
+
+PNG:
+Run image through: https://tinypng.com/
+
+JPG:
+Run image through: https://tinyjpg.com/
