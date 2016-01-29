@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* HTML Body attributes including universal font for site */
+body{
+	font-family: 'PT Sans', sans-serif;
+	padding:0;
+	margin:0;	
+}
+
+/* Container for all header elements */
+#headerContainer{
+	width:100%;
+	min-width:1125px;
+	height:100px;
+	-webkit-box-shadow: 0px 0px 8px 2px #000000;
+       -moz-box-shadow: 0px 0px 8px 2px #000000;
+            box-shadow: 0px 0px 8px 2px #000000;
+}
+
+/* ID holding logo in the header */
+#headerLogo{
+	text-align:center;
+	width:300px;
+	min-width:300px;
+	height:100%;
+}
+
+/* Container holding the menu items */
+/************************************/
+#menuContainer{
+	margin-right:25px;
+	width:600px;
+	min-with:600px;
+	height:100%;
+	float:right;
+}
+
+#menuItem1Holder{
+	width:200px;
+	min-width:200px;
+	height:80px;
+	display:block;
+	margin-top:0;
+	float:right;
+	padding-top:20px;
+}
+
+#menuItem1Holder:hover #menuItem1{
+	border-top:#FF9933 2px solid; 
+	color:#FF9933;
+	width:115px;
+}
+
+#menuItem2Holder{
+	width:200px;
+	min-width:200px;
+	height:80px;
+	display:block;
+	margin-top:0;
+	float:right;
+	padding-top:20px;
+}
+
+#menuItem2Holder:hover #menuItem2{
+	border-top:#FF9933 2px solid; 
+	color:#FF9933;
+	width:90px;
+}
+
+#menuItem3Holder{
+	width:200px;
+	min-width:200px;
+	height:80px;
+	display:block;
+	margin-top:0;
+	float:right;
+	padding-top:20px;
+}
+
+#menuItem3Holder:hover #menuItem3{
+	border-top:#FF9933 2px solid; 
+	color:#FF9933;
+	width:80px;
+}
+
+#menuItem1{
+	height:60px;
+	width:90px;
+	color:#000;
+	font-size:20px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	border-top:#000 2px solid; 
+	display:block;
+	padding-top:10px;
+	margin-top:0px;
+  	-webkit-transition: all 0.2s ease;
+  		-moz-transition: all 0.2s ease;
+  			-o-transition: all 0.2s ease;
+  				transition: all 0.2s ease;
+}
+
+#menuItem2{
+	height:60px;
+	width:65px;
+	color:#000;
+	font-size:20px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	border-top:#000 2px solid; 
+	display:block;
+	padding-top:10px;
+	margin-top:0px;
+	-webkit-transition: all 0.2s ease;
+  		-moz-transition: all 0.2s ease;
+  			-o-transition: all 0.2s ease;
+  				transition: all 0.2s ease;
+}
+
+#menuItem3{
+	height:60px;
+	width:55px;
+	color:#000;
+	font-size:20px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	border-top:#000 2px solid; 
+	display:block;
+	padding-top:10px;
+	margin-top:0px;
+	-webkit-transition: all 0.2s ease;
+  		-moz-transition: all 0.2s ease;
+  			-o-transition: all 0.2s ease;
+  				transition: all 0.2s ease;
+}
+
+/* Container holding the login and join elements */
+/*************************************************/
+#loginContainer{
+	float:right;
+	width:200px;
+	min-width:200px;
+	Height:100%;
+	text-align:center;
+	line-height:55px;
+}
+
+#loginStyle{
+	color:#000; 
+	text-decoration:none;
+	font-size:17px;
+	-webkit-transition: all 0.2s ease;
+  		-moz-transition: all 0.2s ease;
+  			-o-transition: all 0.2s ease;
+  				transition: all 0.2s ease;
+}
+
+#loginStyle:hover{
+	font-size:24px;
+}
+
+#joinStyle{
+	color:#FF9933; 
+	text-decoration:none;
+	font-size:17px;
+	-webkit-transition: all 0.2s ease;
+  		-moz-transition: all 0.2s ease;
+  			-o-transition: all 0.2s ease;
+  				transition: all 0.2s ease;
+}
+
+#joinStyle:hover{
+	font-size:24px;
+}
+
