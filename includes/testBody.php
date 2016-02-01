@@ -2,22 +2,26 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Home</title>
 
 <link rel="stylesheet" type="text/css" href="../css/main-styles.css">
 <!-- https://www.google.com/fonts#UsePlace:use/Collection:PT+Sans -->
 <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 
 </head>
-
 <body>
+<div id="wrapper">
 
-<?php require_once('includes/header.php'); ?>
+	<div id="testContainer">
+	Body Test Text
+	</div>
 
-<?php require_once('includes/testBody.php'); ?>
+</div>
 
-<?php require_once('includes/footer.php'); ?>
 
+
+<!-- jQuery -->
+<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript" src="../js/mainJS.js"></script>
 
 </body>
 </html>
