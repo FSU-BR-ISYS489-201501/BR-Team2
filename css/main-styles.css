@@ -196,8 +196,10 @@ html, body{
 	width:75px;
 }
 
-#noDecoration{
+#FooterNoDecoration{
 	text-decoration:none;
+	display:block;
+	width:75px;
 }
 
 #footerMenuItemText:hover{
