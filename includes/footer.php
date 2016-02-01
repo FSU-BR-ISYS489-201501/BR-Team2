@@ -15,22 +15,22 @@
 
 	<div id="footerMenuContainer">
     	<div id="footerMenuItem">
-        	<a id="noDecoration" href="#">
+        	<a id="footerNoDecoration" href="#">
             	<p id="footerMenuItemText">Contact</p>
             </a>
        	</div>
         <div id="footerMenuItem">
-        	<a id="noDecoration" href="#">
+        	<a id="footerNoDecoration" href="#">
         		<p id="footerMenuItemText">Archive</p>
             </a>
         </div>
         <div id="footerMenuItem">
-        	<a id="noDecoration" href="#">
+        	<a id="footerNoDecoration" href="#">
         		<p id="footerMenuItemText">Help</p>
             </a>
         </div>
         <div id="footerMenuItem">
-        	<a id="noDecoration" href="#">
+        	<a id="footerNoDecoration" href="#">
         		<p id="footerMenuItemText">Links</p>
             </a>
         </div>
