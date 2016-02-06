@@ -36,7 +36,7 @@
     </div>
     
 	<div id="headerLogo">
-    	<img src="../images/4047812.jpg" width="100" height="100" />
+    	<img src="../images/logo.png" width="400" height="83"/>
     </div>
     
 </div>

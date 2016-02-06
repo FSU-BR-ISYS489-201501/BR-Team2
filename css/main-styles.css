@@ -32,20 +32,20 @@ html, body{
 	width:100%;
 	position:absolute;
 	top:0;
-	min-width:1125px;
+	min-width:1225px;
 	height:100px;
 	z-index:99;
 	background:#FEFEFE;
-	-webkit-box-shadow: 0px 0px 8px 2px #000000;
-       -moz-box-shadow: 0px 0px 8px 2px #000000;
-            box-shadow: 0px 0px 8px 2px #000000;
+	-webkit-box-shadow: 0px 0px 8px 2px #666666;
+       -moz-box-shadow: 0px 0px 8px 2px #666666;
+            box-shadow: 0px 0px 8px 2px #666666;
 }
 
 /* ID holding logo in the header */
 #headerLogo{
 	text-align:center;
-	width:300px;
-	min-width:300px;
+	width:400px;
+	min-width:400px;
 	height:100%;
 }
 
@@ -62,9 +62,9 @@ html, body{
 #menuItem1Holder{
 	width:200px;
 	min-width:200px;
-	height:80px;
+	height:65px;
 	display:block;
-	margin-top:0;
+	margin-top:10px;
 	float:right;
 	padding-top:20px;
 }
@@ -78,9 +78,9 @@ html, body{
 #menuItem2Holder{
 	width:200px;
 	min-width:200px;
-	height:80px;
+	height:65px;
 	display:block;
-	margin-top:0;
+	margin-top:10px;
 	float:right;
 	padding-top:20px;
 }
@@ -94,9 +94,9 @@ html, body{
 #menuItem3Holder{
 	width:200px;
 	min-width:200px;
-	height:80px;
+	height:65px;
 	display:block;
-	margin-top:0;
+	margin-top:10px;
 	float:right;
 	padding-top:20px;
 }
@@ -164,7 +164,7 @@ html, body{
 /* Container for all footer elements */
 #footerContainer{
 	width:100%;
-	min-width:1125px;
+	min-width:1225px;
 	height:75px;
 	min-height:75px;
 	background:#404040;
