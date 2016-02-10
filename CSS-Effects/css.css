@@ -22,9 +22,9 @@ body{
 }
 
 .body-wrapper{
-	width:800px;
-	margin-left:auto;
-	margin-right:auto;
+  width:800px;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 .wrapper {
@@ -523,9 +523,9 @@ body{
   100% {opacity: 0; -o-transform:  scale(2.5);}
 }
 @keyframes ripple-down {
-	25% {opacity: 0.9; transform:  translateY(100px);}
-	50% {opacity: 0.6; transform:  translateY(200px);}
-	75% {opacity: 0.2; transform:  translateY(300px);}
+  25% {opacity: 0.9; transform:  translateY(100px);}
+  50% {opacity: 0.6; transform:  translateY(200px);}
+  75% {opacity: 0.2; transform:  translateY(300px);}
   100% {opacity: 0; transform:  translateY(500px);}
 }
 
@@ -592,9 +592,9 @@ body{
   100% {opacity: 0; -o-transform:  scale(2.5);}
 }
 @keyframes ripple-left {
-	25% {opacity: 0.9; transform:  translateX(100px);}
-	50% {opacity: 0.6; transform:  translateX(200px);}
-	75% {opacity: 0.2; transform:  translateX(300px);}
+  25% {opacity: 0.9; transform:  translateX(100px);}
+  50% {opacity: 0.6; transform:  translateX(200px);}
+  75% {opacity: 0.2; transform:  translateX(300px);}
   100% {opacity: 0; transform:  translateX(500px);}
 }
 
@@ -660,9 +660,9 @@ body{
   100% {opacity: 0; -o-transform:  scale(2.5);}
 }
 @keyframes ripple-right {
-	25% {opacity: 0.9; transform:  translateX(-100px);}
-	50% {opacity: 0.6; transform:  translateX(-200px);}
-	75% {opacity: 0.2; transform:  translateX(-300px);}
+  25% {opacity: 0.9; transform:  translateX(-100px);}
+  50% {opacity: 0.6; transform:  translateX(-200px);}
+  75% {opacity: 0.2; transform:  translateX(-300px);}
   100% {opacity: 0; transform:  translateX(-500px);}
 }
 
@@ -797,14 +797,14 @@ animation-iteration-count: 1;
 }
 
 .spiny-toggle1-animate{
-animation:spinytoggle1 0.65s;
-animation-timing-function:linear;
-animation-fill-mode:forwards;
-animation-iteration-count: 1;
--webkit-animation-iteration-count: 1;
--webkit-animation:spinytoggle1 0.65s;
--webkit-animation-timing-function:linear;
--webkit-animation-fill-mode: forwards;
+  animation:spinytoggle1 0.65s;
+  animation-timing-function:linear;
+  animation-fill-mode:forwards;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation:spinytoggle1 0.65s;
+  -webkit-animation-timing-function:linear;
+  -webkit-animation-fill-mode: forwards;
 }
 
 @keyframes spinytoggle1 {
@@ -815,14 +815,14 @@ animation-iteration-count: 1;
 }
 
 .spiny-toggle2-animate{
-animation:spinytoggle2 0.65s;
-animation-timing-function:linear;
-animation-fill-mode:forwards;
-animation-iteration-count: 1;
--webkit-animation-iteration-count: 1;
--webkit-animation:spinytoggle2 0.65s;
--webkit-animation-timing-function:linear;
--webkit-animation-fill-mode: forwards;
+  animation:spinytoggle2 0.65s;
+  animation-timing-function:linear;
+  animation-fill-mode:forwards;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation:spinytoggle2 0.65s;
+  -webkit-animation-timing-function:linear;
+  -webkit-animation-fill-mode: forwards;
 }
 
 @keyframes spinytoggle2 {
@@ -964,14 +964,14 @@ animation-iteration-count: 1;
 }
 
 .spinx-toggle1-animate{
-animation:spinxtoggle1 0.65s;
-animation-timing-function:linear;
-animation-fill-mode:forwards;
-animation-iteration-count: 1;
--webkit-animation-iteration-count: 1;
--webkit-animation:spinxtoggle1 0.65s;
--webkit-animation-timing-function:linear;
--webkit-animation-fill-mode: forwards;
+  animation:spinxtoggle1 0.65s;
+  animation-timing-function:linear;
+  animation-fill-mode:forwards;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation:spinxtoggle1 0.65s;
+  -webkit-animation-timing-function:linear;
+  -webkit-animation-fill-mode: forwards;
 }
 
 @keyframes spinxtoggle1 {
@@ -982,14 +982,14 @@ animation-iteration-count: 1;
 }
 
 .spinx-toggle2-animate{
-animation:spinxtoggle2 0.65s;
-animation-timing-function:linear;
-animation-fill-mode:forwards;
-animation-iteration-count: 1;
--webkit-animation-iteration-count: 1;
--webkit-animation:spinxtoggle2 0.65s;
--webkit-animation-timing-function:linear;
--webkit-animation-fill-mode: forwards;
+  animation:spinxtoggle2 0.65s;
+  animation-timing-function:linear;
+  animation-fill-mode:forwards;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation:spinxtoggle2 0.65s;
+  -webkit-animation-timing-function:linear;
+  -webkit-animation-fill-mode: forwards;
 }
 
 @keyframes spinxtoggle2 {
