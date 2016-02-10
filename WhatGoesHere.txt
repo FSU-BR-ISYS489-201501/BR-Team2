@@ -1,1 +1,0 @@
-The Master Branch will hold the current functioning website files, this does not include testing or beta code. (Current Build)
