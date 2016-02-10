@@ -8,20 +8,18 @@
 <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 
 </head>
+
 <body>
-<div id="wrapper">
 
-	<div id="testContainer">
-		Body Test Text
+	<div id="sliderContainer">
+		test
 	</div>
-
-</div>
-
 
 
 <!-- jQuery -->
 <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
 <script type="text/javascript" src="../js/mainJS.js"></script>
+
 
 </body>
 </html>
