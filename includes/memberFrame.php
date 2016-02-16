@@ -10,23 +10,35 @@
 </head>
 <body>
 
-<?php
-include('login-pull.php'); // Includes Login Script
-?>
 
-<div id="wrapper">
+<div id="userWrapper">
 
-	<div id="testContainer">
-		<?php
-			if(isset($_SESSION['login_user'])){
-				echo "Welcome " .$_SESSION['login_user'];
-			}else{
-				echo "Welcome"	;
+    	<header> 
+			<nav>
+				<ul>
+					<li><a onClick="loadQueryResults()" class="links" >sample Page</a></li>
+					<li id="selected"><a href="that.html">That</a></li>
+					<li><a href="theOther.html">The Other</a></li>
+					<li><a href="banana.html">Banana</a></li>
+				</ul>
+			</nav>
+
+		</header>
+
+		<script>
+			function loadQueryResults() {
+				$('#content').load('authorBody.php');
+				return false;
 			}
-		?>
+		</script>
+		
+		<section id="content">
+		</section>
+		
+
 	</div>
 
-</div>
+
 
 
 

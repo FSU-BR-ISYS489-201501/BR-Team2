@@ -8,31 +8,18 @@
 <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 
 </head>
+
 <body>
 
-<?php
-include('login-pull.php'); // Includes Login Script
-?>
-
-<div id="wrapper">
-
-	<div id="testContainer">
-		<?php
-			if(isset($_SESSION['login_user'])){
-				echo "Welcome " .$_SESSION['login_user'];
-			}else{
-				echo "Welcome"	;
-			}
-		?>
+	<div id="sliderContainer">
+		test
 	</div>
-
-</div>
-
 
 
 <!-- jQuery -->
 <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
 <script type="text/javascript" src="../js/mainJS.js"></script>
+
 
 </body>
 </html>

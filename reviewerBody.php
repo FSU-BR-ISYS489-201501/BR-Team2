@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -10,20 +13,18 @@
 </head>
 <body>
 
-<?php
-include('login-pull.php'); // Includes Login Script
-?>
-
 <div id="wrapper">
 
 	<div id="testContainer">
-		<?php
-			if(isset($_SESSION['login_user'])){
-				echo "Welcome " .$_SESSION['login_user'];
-			}else{
-				echo "Welcome"	;
-			}
-		?>
+	REVIEWER PAGE
+	<br></br>
+	<iframe src="download.php"></iframe>
+<br></br>
+	<form action="upload.php" method="post" enctype="multipart/form-data">
+    Select a file to upload:
+    <input type="file" name="fileToUpload" id="fileToUpload">
+    <input type="submit" value="Upload File" name="submit">
+</form>
 	</div>
 
 </div>
