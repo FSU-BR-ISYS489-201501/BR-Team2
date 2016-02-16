@@ -38,7 +38,11 @@
         </a>
     </div>
 	<div id="headerLogo">
+<<<<<<< HEAD
     	<a href="../index.php"><img src="../images/logo.png" width="400" height="83"/></a>
+=======
+    	<img src="../images/logo.png" width="400" height="83"/>
+>>>>>>> origin/Alpha
     </div>
 </div>
 <!-- jQuery -->

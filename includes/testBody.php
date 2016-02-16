@@ -17,6 +17,7 @@ include('login-pull.php'); // Includes Login Script
 <div id="wrapper">
 
 	<div id="testContainer">
+<<<<<<< HEAD
 		<?php
 			if(isset($_SESSION['login_user'])){
 				echo "Welcome " .$_SESSION['login_user'];
@@ -24,6 +25,9 @@ include('login-pull.php'); // Includes Login Script
 				echo "Welcome"	;
 			}
 		?>
+=======
+		Body Test Text
+>>>>>>> origin/Alpha
 	</div>
 
 </div>

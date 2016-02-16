@@ -11,7 +11,18 @@ html, body{
 
 /* Test body wrapper, for test purposes */
 #wrapper{
+<<<<<<< HEAD
 
+=======
+	width:100%;
+	min-width:1225px;
+	position:relative;
+	min-height:600px;
+	height:50%;
+}
+
+#wrapperMargin{
+>>>>>>> origin/Alpha
 	width:100%;
 	min-width:1125px;
 	position:relative;
@@ -347,10 +358,44 @@ nav li a {
 	height:50vh;
 	background:#069;	
 	margin-top:100px;
+<<<<<<< HEAD
 }
 
 
 
+=======
+	min-height:500px;
+}
+
+
+/* Home Sub Elements */
+/*************************************************/
+#homeSubContainer{
+	margin-right:auto;
+	margin-left:auto;
+	width:90%;
+	height:500px;
+	min-width:1125px;
+	background:#330066;
+}
+#homeCellContainer{
+	display:block;
+	width:32.61%;
+	min-width:300px;
+	background:#096;
+	height:500px;
+	float:left;	
+}
+
+#homeSubSpacer{
+	margin-top:20px;
+	height:435px;
+	border-right:#666 solid medium;
+	float:left;
+	padding:.2%;
+	margin-right:.4%;
+}
+>>>>>>> origin/Alpha
 
 
 
