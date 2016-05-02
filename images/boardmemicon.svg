@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 94 93.8" style="enable-background:new 0 0 94 93.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:none;stroke:#FFFFFF;stroke-width:1.68;}
+	.st1{clip-path:url(#SVGID_2_);fill:none;stroke:#FFFFFF;stroke-width:3.027;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="20.1" y="28.8" width="53.9" height="36.2"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<circle class="st0" cx="27" cy="47.4" r="3.7"/>
+	<circle class="st0" cx="67.1" cy="47.4" r="3.7"/>
+	<path class="st0" d="M21.9,53.4c0,0-0.9,1.8-0.9,3.4v5.2H33v-5.8c0,0,0.1-1.4-1.1-3"/>
+	<path class="st0" d="M62,53.4c0,0-0.9,1.8-0.9,3.4v5.2h12.1v-5.8c0,0,0.1-1.4-1.1-3"/>
+	<circle class="st1" cx="47" cy="37" r="6.7"/>
+	<path class="st1" d="M37.8,47.8c0,0-1.7,3.3-1.7,6.2v9.4h21.8V53.1c0,0,0.1-2.5-1.9-5.5"/>
+</g>
+</svg>

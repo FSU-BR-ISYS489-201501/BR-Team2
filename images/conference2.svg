@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 424 106" style="enable-background:new 0 0 424 106;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'Gotham-Medium';}
+	.st2{font-size:19.6064px;}
+	.st3{clip-path:url(#SVGID_2_);fill:none;stroke:#FFFFFF;stroke-width:2;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:2;}
+	.st5{clip-path:url(#SVGID_4_);fill:none;stroke:#FFFFFF;stroke-width:1.5;}
+</style>
+<g>
+	<text transform="matrix(1 0 0 1 170.2292 80.0272)" class="st0 st1 st2">Register</text>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="12.8" y="12.1" width="397.4" height="83.2"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<polyline class="st3" points="203.3,52.1 195.1,52.1 195.1,13.1 227.9,13.1 227.9,52.7 220.2,52.7 		"/>
+	</g>
+	<line class="st4" x1="200.8" y1="20.4" x2="222.6" y2="20.4"/>
+	<line class="st4" x1="200.8" y1="25.5" x2="222.6" y2="25.5"/>
+	<line class="st4" x1="200.8" y1="30.5" x2="222.6" y2="30.5"/>
+	<line class="st4" x1="200.8" y1="35.5" x2="222.6" y2="35.5"/>
+	<line class="st4" x1="200.8" y1="40.5" x2="222.6" y2="40.5"/>
+	<line class="st4" x1="200.8" y1="45.6" x2="222.6" y2="45.6"/>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="12.8" y="12.1" width="397.4" height="83.2"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st5" d="M181,49.9H13.6v44.7h395.8c0.1,0,0-44.8,0-44.8H243"/>
+	</g>
+</g>
+</svg>

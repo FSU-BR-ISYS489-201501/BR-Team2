@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 647 190" style="enable-background:new 0 0 647 190;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'Gotham-Medium';}
+	.st2{font-size:30.1926px;}
+	.st3{clip-path:url(#SVGID_2_);fill:none;stroke:#FFFFFF;stroke-width:2;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:2;}
+	.st5{clip-path:url(#SVGID_4_);fill:none;stroke:#FFFFFF;stroke-width:2.49;}
+</style>
+<text transform="matrix(1 0 0 1 164.8546 130.8418)" class="st0 st1 st2">Welcome to the JCI!</text>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="15.1" y="26.9" width="611.9" height="141.1"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<polyline class="st3" points="308.4,87.8 295.7,87.8 295.7,27.8 346.4,27.8 346.4,88.7 334.4,88.7 	"/>
+</g>
+<line class="st4" x1="304.5" y1="39.1" x2="338.1" y2="39.1"/>
+<line class="st4" x1="304.5" y1="46.8" x2="338.1" y2="46.8"/>
+<line class="st4" x1="304.5" y1="54.6" x2="338.1" y2="54.6"/>
+<line class="st4" x1="304.5" y1="62.3" x2="338.1" y2="62.3"/>
+<line class="st4" x1="304.5" y1="70" x2="338.1" y2="70"/>
+<line class="st4" x1="304.5" y1="77.8" x2="338.1" y2="77.8"/>
+<g>
+	<defs>
+		<rect id="SVGID_3_" x="15.1" y="26.9" width="611.9" height="141.1"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st5" d="M274.1,84.5H16.2v68.8h609.6c0.1,0,0-68.9,0-68.9H369.5"/>
+</g>
+</svg>

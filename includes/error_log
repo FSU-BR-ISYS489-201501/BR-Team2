@@ -1,0 +1,4 @@
+[23-Mar-2016 15:58:11 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jcisfcr/subdomains/br_t2_jci/public_html/includes/confirmation.php on line 47
+[23-Mar-2016 20:27:41 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/jcisfcr/subdomains/br_t2_jci/public_html/includes/showInfo.php on line 24
+[23-Mar-2016 20:30:14 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/jcisfcr/subdomains/br_t2_jci/public_html/includes/showInfo.php on line 37
+[10-Apr-2016 20:43:08 UTC] PHP Fatal error:  Call to a member function errorInfo() on a non-object in /home/jcisfcr/subdomains/br_t2_jci/public_html/includes/reviewerAssign.php on line 33

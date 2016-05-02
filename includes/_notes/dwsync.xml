@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Header.php" server="ftp.sfcrjci.org" local="131041804188253806" remote="131039297400000000" Dst="2" />
+<file name="announcementPull.php" server="ftp.sfcrjci.org" local="131061472632824865" remote="131058880800000000" Dst="2" />
+<file name="changePassword.php" server="ftp.sfcrjci.org" local="131061472052332686" remote="131048493000000000" Dst="2" />
+<file name="createDirectory.php" server="ftp.sfcrjci.org" local="131061472645136141" remote="131042844000000000" Dst="2" />
+<file name="error_log" server="ftp.sfcrjci.org" local="131061472055063435" remote="131047837800000000" Dst="2" />
+<file name="footer.php" server="ftp.sfcrjci.org" local="131061472894695949" remote="131045052600000000" Dst="2" />
+<file name="header.php" server="ftp.sfcrjci.org" local="131061472885437427" remote="131060774400000000" Dst="2" />
+<file name="logout.php" server="ftp.sfcrjci.org" local="131061472061652627" remote="131060871600000000" Dst="2" />
+<file name="login-pull.php" server="ftp.sfcrjci.org" local="131061472634516109" remote="131060871000000000" Dst="2" />
+<file name="postAnnouncement.php" server="ftp.sfcrjci.org" local="131061472624852960" remote="131060875800000000" Dst="2" />
+<file name="registerPull.php" server="ftp.sfcrjci.org" local="131061472634916061" remote="131053804200000000" Dst="2" />
+<file name="showInfo.php" server="ftp.sfcrjci.org" local="131061472638306661" remote="131061358200000000" Dst="2" />
+<file name="subHeader.php" server="ftp.sfcrjci.org" local="131061472644391102" remote="131061274200000000" Dst="2" />
+<file name="userHeader.php" server="ftp.sfcrjci.org" local="131061472643710818" remote="131060883000000000" Dst="2" />
+<file name="userMgmtPull.php" server="ftp.sfcrjci.org" local="131061472070790349" remote="131060973600000000" Dst="2" />
+<file name="verifyPull.php" server="ftp.sfcrjci.org" local="131061472645901268" remote="131060884800000000" Dst="2" />
+<file name="journalPull.php" server="ftp.sfcrjci.org" local="131061472633024866" remote="131060782200000000" Dst="2" />
+<file name="casePull.php" server="ftp.sfcrjci.org" local="131061472169646952" remote="131061260400000000" Dst="2" />
+<file name="caseDownloadPull.php" server="ftp.sfcrjci.org" local="131061472623107766" remote="131058895800000000" Dst="2" />
+<file name="editSubmissionsPull.php" server="ftp.sfcrjci.org" local="131061472621772589" remote="131060761200000000" Dst="2" />
+<file name="setSubFolder.php" server="ftp.sfcrjci.org" local="131061472066628613" remote="131042596200000000" Dst="2" />
+<file name="userFetch.php" server="ftp.sfcrjci.org" local="131061472645301253" remote="131043399000000000" Dst="2" />
+<file name="getCase.php" server="ftp.sfcrjci.org" local="131061472625012966" remote="131061162000000000" Dst="2" />
+<file name="editorAssign.php" server="ftp.sfcrjci.org" local="131061472053953002" remote="131047841400000000" Dst="2" />
+<file name="getEditors.php" server="ftp.sfcrjci.org" local="131061472626118273" remote="131044330200000000" Dst="2" />
+<file name="getReviewers.php" server="ftp.sfcrjci.org" local="131061472166634157" remote="131044447800000000" Dst="2" />
+<file name="getCaseReviewer.php" server="ftp.sfcrjci.org" local="131061671231306358" remote="131061562800000000" Dst="2" />
+<file name="JCI_Editorial_Policy.pdf" server="ftp.sfcrjci.org" local="131061472033774996" remote="131044999800000000" Dst="2" />
+<file name="JCI_Editorial_Policy_n_Publications_Ethics_Policy.docx" server="ftp.sfcrjci.org" local="131061472032194771" remote="131043639000000000" Dst="2" />
+<file name="Publication Ethics Policy and Malpractice Statement.pdf" server="ftp.sfcrjci.org" local="131061472041728947" remote="131044997400000000" Dst="2" />
+<file name="announcementPullEditor.php" server="ftp.sfcrjci.org" local="131061472049191069" remote="131058880800000000" Dst="2" />
+<file name="SCR_Manuscript_Guidelines_for_Authors.pdf" server="ftp.sfcrjci.org" local="131061472050307277" remote="131044990200000000" Dst="2" />
+<file name="emailPull.php" server="ftp.sfcrjci.org" local="131061472609014798" remote="131061162000000000" Dst="2" />
+<file name="journalEditPull.php" server="ftp.sfcrjci.org" local="131061472059594901" remote="131060779200000000" Dst="2" />
+<file name="journalUpdatePull.php" server="ftp.sfcrjci.org" local="131061472643780830" remote="131060871000000000" Dst="2" />
+<file name="reviewerPull.php" server="ftp.sfcrjci.org" local="131061472641688546" remote="131060879400000000" Dst="2" />
+<file name="searchGo.php" server="ftp.sfcrjci.org" local="131061472612515870" remote="131047842600000000" Dst="2" />
+<file name="filteredSearch.php" server="ftp.sfcrjci.org" local="131061472894815952" remote="131047860600000000" Dst="2" />
+<file name="profileManagementPull.php" server="ftp.sfcrjci.org" local="131061472635836241" remote="131047939800000000" Dst="2" />
+<file name="reviewerAssign.php" server="ftp.sfcrjci.org" local="131061472064858299" remote="131060877000000000" Dst="2" />
+<file name="caseSelect.php" server="ftp.sfcrjci.org" local="131061472642038553" remote="131061279600000000" Dst="2" />
+</dwsync>
